@@ -210,6 +210,12 @@ additionalProperties:
         zh-hant: "休閒遊戲"
         zh: "休闲游戏"
         tr: "Gündelik Oyunlar"
+    - key: sorc
+      name: sorc
+      sort: 9998
+      locales:
+        en: "sorc"
+        zh: "sorc"
     - key: Local
       name: 本地
       sort: 9999
